@@ -1,0 +1,16 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "Learning sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelvin Kipchumba",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.28.0"
+  }
+}
